@@ -6,6 +6,36 @@ __pycache__/
 # C extensions
 *.so
 
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Local app data
+.alice/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor config
+.vscode/
+.idea/
+
 # Distribution / packaging
 .Python
 build/
