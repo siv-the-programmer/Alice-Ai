@@ -1,8 +1,6 @@
 # Alice-Ai
 
-<a href="https://buymeacoffee.com/sivariob" target="_blank" rel="noopener">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important; width: 217px !important;">
-</a>
+
 
 A local terminal-based AI assistant powered by Ollama with lightweight persistent memory stored in SQLite.  
 Designed for fast CLI interaction, experimentation, and local automation workflows.
@@ -138,6 +136,9 @@ All personal data remains local and is ignored by Git.
 
 ---
 
+<a href="https://buymeacoffee.com/sivariob" target="_blank" rel="noopener">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important; width: 217px !important;">
+</a>
 ## License
 
 Personal / educational use.
