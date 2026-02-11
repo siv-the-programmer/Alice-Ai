@@ -130,11 +130,11 @@ No manual setup required.
 - exit — Quit  
 ```
 Examples:
-
+```
 /save projects|Building Python automation tools  
 /pin workflow|Be concise and ask one clarification if unsure  
-/chaos 8  
-
+/chaos 8
+```
 ---
 
 ## GitHub Safety
