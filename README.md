@@ -101,7 +101,7 @@ Start the CLI:
 ```
 python3 CLI_bot.py
 ```
-On first run, the application will automatically create:
+On first run, the application will take 1 to 2 mins to fully start as it will automatically create:
 
 ~/.alice/  
 ~/.alice/alice_memory.db
