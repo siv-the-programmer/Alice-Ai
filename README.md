@@ -74,11 +74,15 @@ Python dependencies:
 
 Clone the repository:
 
-git clone https://github.com/siv-the-programmer/Alice-AI.git  
+git clone
+```
+https://github.com/siv-the-programmer/Alice-AI.git  
 cd your-repo
+```
 
 Create and activate a virtual environment:
 
+```
 python3 -m venv .venv  
 source .venv/bin/activate
 
@@ -87,14 +91,16 @@ Install dependencies:
 pip install -U pip  
 pip install ollama rich
 
+```
+
 ---
 
 ## Running the Bot
 
 Start the CLI:
-
+```
 python3 CLI_bot.py
-
+```
 On first run, the application will automatically create:
 
 ~/.alice/  
@@ -102,7 +108,7 @@ On first run, the application will automatically create:
 
 No manual setup required.
 
-#Screenshot1
+# Screenshot1
 
 <img src="pic1.jpg" width="400" alt="Screenshot1">
 
@@ -113,7 +119,7 @@ No manual setup required.
 ---
 
 ## CLI Commands
-
+```
 - /help — Show commands  
 - /mem — List memories  
 - /save <category>|<text> — Save memory  
@@ -122,7 +128,7 @@ No manual setup required.
 - /reset — Reset database  
 - /chaos <1–10> — Adjust response intensity  
 - exit — Quit  
-
+```
 Examples:
 
 /save projects|Building Python automation tools  
