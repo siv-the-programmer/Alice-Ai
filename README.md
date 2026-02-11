@@ -1,4 +1,4 @@
-8# Alice-Ai
+# Alice-Ai
 
 
 
@@ -102,7 +102,11 @@ On first run, the application will automatically create:
 
 No manual setup required.
 
+#Screenshot1
+
 <img src="pic1.jpg" width="400" alt="Screenshot1">
+
+# Screenshot2
 
 <img src="pic2.jpg" width="400" alt="Screenshot2">
 
