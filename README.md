@@ -155,6 +155,3 @@ All personal data remains local and is ignored by Git.
 </a>
 
 
-## License
-
-Personal / educational use.
