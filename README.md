@@ -77,7 +77,7 @@ Clone the repository:
 git clone
 ```
 https://github.com/siv-the-programmer/Alice-AI.git  
-cd Alice-AI.git
+cd Alice-AI
 ```
 
 Create and activate a virtual environment:
