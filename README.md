@@ -1,6 +1,13 @@
 # Alice-Ai
 
+![Language: Python](https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/siv-the-programmer/Alice-Ai?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/siv-the-programmer/Alice-Ai?style=flat-square)
+![License](https://img.shields.io/github/license/siv-the-programmer/Alice-Ai?style=flat-square)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siv-the-programmer&repo=Alice-Ai&layout=compact&theme=blue-green)](https://github.com/siv-the-programmer/Alice-Ai)
+
+> A local terminal-based AI assistant powered by Ollama…
 
 A local terminal-based AI assistant powered by Ollama with lightweight persistent memory stored in SQLite.  
 Designed for fast CLI interaction, experimentation, and local automation workflows.
